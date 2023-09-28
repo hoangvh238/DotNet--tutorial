@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Slot3_matching/1.0.0": {
+        "runtime": {
+          "Slot3_matching.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Slot3_matching/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

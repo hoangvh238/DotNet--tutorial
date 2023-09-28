@@ -1,0 +1,14 @@
+D:\PRN211\SLOT5\SLOT5\bin\Debug\net6.0\SLOT5.exe
+D:\PRN211\SLOT5\SLOT5\bin\Debug\net6.0\SLOT5.deps.json
+D:\PRN211\SLOT5\SLOT5\bin\Debug\net6.0\SLOT5.runtimeconfig.json
+D:\PRN211\SLOT5\SLOT5\bin\Debug\net6.0\SLOT5.dll
+D:\PRN211\SLOT5\SLOT5\bin\Debug\net6.0\SLOT5.pdb
+D:\PRN211\SLOT5\SLOT5\obj\Debug\net6.0\SLOT5.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\SLOT5\SLOT5\obj\Debug\net6.0\SLOT5.AssemblyInfoInputs.cache
+D:\PRN211\SLOT5\SLOT5\obj\Debug\net6.0\SLOT5.AssemblyInfo.cs
+D:\PRN211\SLOT5\SLOT5\obj\Debug\net6.0\SLOT5.csproj.CoreCompileInputs.cache
+D:\PRN211\SLOT5\SLOT5\obj\Debug\net6.0\SLOT5.dll
+D:\PRN211\SLOT5\SLOT5\obj\Debug\net6.0\refint\SLOT5.dll
+D:\PRN211\SLOT5\SLOT5\obj\Debug\net6.0\SLOT5.pdb
+D:\PRN211\SLOT5\SLOT5\obj\Debug\net6.0\SLOT5.genruntimeconfig.cache
+D:\PRN211\SLOT5\SLOT5\obj\Debug\net6.0\ref\SLOT5.dll

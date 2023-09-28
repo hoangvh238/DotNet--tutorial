@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wA7oSXG4xaRwJw0cFj9B9zXgjU030g343cu4sIhAvwM9In1FkeryO4v/a2UaMT10FGPurmaq/DEujN5jU9kqEw==",
+  "success": true,
+  "projectFilePath": "D:\\PRN211\\SLOT5\\SLOT5\\SLOT5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hoang\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hoang\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\hoang\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\hoang\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

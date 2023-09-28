@@ -1,0 +1,14 @@
+D:\PRN211\Slot4\Slot4\bin\Debug\net6.0\Slot4.exe
+D:\PRN211\Slot4\Slot4\bin\Debug\net6.0\Slot4.deps.json
+D:\PRN211\Slot4\Slot4\bin\Debug\net6.0\Slot4.runtimeconfig.json
+D:\PRN211\Slot4\Slot4\bin\Debug\net6.0\Slot4.dll
+D:\PRN211\Slot4\Slot4\bin\Debug\net6.0\Slot4.pdb
+D:\PRN211\Slot4\Slot4\obj\Debug\net6.0\Slot4.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Slot4\Slot4\obj\Debug\net6.0\Slot4.AssemblyInfoInputs.cache
+D:\PRN211\Slot4\Slot4\obj\Debug\net6.0\Slot4.AssemblyInfo.cs
+D:\PRN211\Slot4\Slot4\obj\Debug\net6.0\Slot4.csproj.CoreCompileInputs.cache
+D:\PRN211\Slot4\Slot4\obj\Debug\net6.0\Slot4.dll
+D:\PRN211\Slot4\Slot4\obj\Debug\net6.0\refint\Slot4.dll
+D:\PRN211\Slot4\Slot4\obj\Debug\net6.0\Slot4.pdb
+D:\PRN211\Slot4\Slot4\obj\Debug\net6.0\Slot4.genruntimeconfig.cache
+D:\PRN211\Slot4\Slot4\obj\Debug\net6.0\ref\Slot4.dll

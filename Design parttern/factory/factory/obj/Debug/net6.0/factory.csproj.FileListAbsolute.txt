@@ -1,0 +1,14 @@
+D:\PRN211\factory\factory\bin\Debug\net6.0\factory.exe
+D:\PRN211\factory\factory\bin\Debug\net6.0\factory.deps.json
+D:\PRN211\factory\factory\bin\Debug\net6.0\factory.runtimeconfig.json
+D:\PRN211\factory\factory\bin\Debug\net6.0\factory.dll
+D:\PRN211\factory\factory\bin\Debug\net6.0\factory.pdb
+D:\PRN211\factory\factory\obj\Debug\net6.0\factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\factory\factory\obj\Debug\net6.0\factory.AssemblyInfoInputs.cache
+D:\PRN211\factory\factory\obj\Debug\net6.0\factory.AssemblyInfo.cs
+D:\PRN211\factory\factory\obj\Debug\net6.0\factory.csproj.CoreCompileInputs.cache
+D:\PRN211\factory\factory\obj\Debug\net6.0\factory.dll
+D:\PRN211\factory\factory\obj\Debug\net6.0\refint\factory.dll
+D:\PRN211\factory\factory\obj\Debug\net6.0\factory.pdb
+D:\PRN211\factory\factory\obj\Debug\net6.0\factory.genruntimeconfig.cache
+D:\PRN211\factory\factory\obj\Debug\net6.0\ref\factory.dll

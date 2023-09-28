@@ -1,0 +1,14 @@
+D:\PRN211\Slot3_matching\Slot3_matching\bin\Debug\net6.0\Slot3_matching.exe
+D:\PRN211\Slot3_matching\Slot3_matching\bin\Debug\net6.0\Slot3_matching.deps.json
+D:\PRN211\Slot3_matching\Slot3_matching\bin\Debug\net6.0\Slot3_matching.runtimeconfig.json
+D:\PRN211\Slot3_matching\Slot3_matching\bin\Debug\net6.0\Slot3_matching.dll
+D:\PRN211\Slot3_matching\Slot3_matching\bin\Debug\net6.0\Slot3_matching.pdb
+D:\PRN211\Slot3_matching\Slot3_matching\obj\Debug\net6.0\Slot3_matching.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Slot3_matching\Slot3_matching\obj\Debug\net6.0\Slot3_matching.AssemblyInfoInputs.cache
+D:\PRN211\Slot3_matching\Slot3_matching\obj\Debug\net6.0\Slot3_matching.AssemblyInfo.cs
+D:\PRN211\Slot3_matching\Slot3_matching\obj\Debug\net6.0\Slot3_matching.csproj.CoreCompileInputs.cache
+D:\PRN211\Slot3_matching\Slot3_matching\obj\Debug\net6.0\Slot3_matching.dll
+D:\PRN211\Slot3_matching\Slot3_matching\obj\Debug\net6.0\refint\Slot3_matching.dll
+D:\PRN211\Slot3_matching\Slot3_matching\obj\Debug\net6.0\Slot3_matching.pdb
+D:\PRN211\Slot3_matching\Slot3_matching\obj\Debug\net6.0\Slot3_matching.genruntimeconfig.cache
+D:\PRN211\Slot3_matching\Slot3_matching\obj\Debug\net6.0\ref\Slot3_matching.dll

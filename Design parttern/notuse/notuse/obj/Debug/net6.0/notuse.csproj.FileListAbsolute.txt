@@ -1,0 +1,14 @@
+D:\PRN211\notuse\notuse\bin\Debug\net6.0\notuse.exe
+D:\PRN211\notuse\notuse\bin\Debug\net6.0\notuse.deps.json
+D:\PRN211\notuse\notuse\bin\Debug\net6.0\notuse.runtimeconfig.json
+D:\PRN211\notuse\notuse\bin\Debug\net6.0\notuse.dll
+D:\PRN211\notuse\notuse\bin\Debug\net6.0\notuse.pdb
+D:\PRN211\notuse\notuse\obj\Debug\net6.0\notuse.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\notuse\notuse\obj\Debug\net6.0\notuse.AssemblyInfoInputs.cache
+D:\PRN211\notuse\notuse\obj\Debug\net6.0\notuse.AssemblyInfo.cs
+D:\PRN211\notuse\notuse\obj\Debug\net6.0\notuse.csproj.CoreCompileInputs.cache
+D:\PRN211\notuse\notuse\obj\Debug\net6.0\notuse.dll
+D:\PRN211\notuse\notuse\obj\Debug\net6.0\refint\notuse.dll
+D:\PRN211\notuse\notuse\obj\Debug\net6.0\notuse.pdb
+D:\PRN211\notuse\notuse\obj\Debug\net6.0\notuse.genruntimeconfig.cache
+D:\PRN211\notuse\notuse\obj\Debug\net6.0\ref\notuse.dll
