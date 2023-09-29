@@ -1,0 +1,14 @@
+D:\PRN211\CurrencyProgram\CurrencyProgram\obj\Debug\net6.0\CurrencyProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\CurrencyProgram\CurrencyProgram\obj\Debug\net6.0\CurrencyProgram.AssemblyInfoInputs.cache
+D:\PRN211\CurrencyProgram\CurrencyProgram\obj\Debug\net6.0\CurrencyProgram.AssemblyInfo.cs
+D:\PRN211\CurrencyProgram\CurrencyProgram\obj\Debug\net6.0\CurrencyProgram.csproj.CoreCompileInputs.cache
+D:\PRN211\CurrencyProgram\CurrencyProgram\bin\Debug\net6.0\CurrencyProgram.exe
+D:\PRN211\CurrencyProgram\CurrencyProgram\bin\Debug\net6.0\CurrencyProgram.deps.json
+D:\PRN211\CurrencyProgram\CurrencyProgram\bin\Debug\net6.0\CurrencyProgram.runtimeconfig.json
+D:\PRN211\CurrencyProgram\CurrencyProgram\bin\Debug\net6.0\CurrencyProgram.dll
+D:\PRN211\CurrencyProgram\CurrencyProgram\bin\Debug\net6.0\CurrencyProgram.pdb
+D:\PRN211\CurrencyProgram\CurrencyProgram\obj\Debug\net6.0\CurrencyProgram.dll
+D:\PRN211\CurrencyProgram\CurrencyProgram\obj\Debug\net6.0\refint\CurrencyProgram.dll
+D:\PRN211\CurrencyProgram\CurrencyProgram\obj\Debug\net6.0\CurrencyProgram.pdb
+D:\PRN211\CurrencyProgram\CurrencyProgram\obj\Debug\net6.0\CurrencyProgram.genruntimeconfig.cache
+D:\PRN211\CurrencyProgram\CurrencyProgram\obj\Debug\net6.0\ref\CurrencyProgram.dll
