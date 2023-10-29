@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "9llPJiWMFi69gbAD2xkV5C7GJkRQpDUku+b7Tu8iS/U3D93NxnDz28sVyikJ0KKmMW3HU/cyGMJdOrP29bGsKg==",
+  "success": false,
+  "projectFilePath": "D:\\PRN211\\AutomobileSolution\\AutomobileWinApp\\AutomobileWinApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\PRN211\\AutomobileSolution\\AutomibileLibrary\\AutomobileLibrary.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\PRN211\\AutomobileSolution\\AutomibileLibrary\\AutomobileLibrary.csproj",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
