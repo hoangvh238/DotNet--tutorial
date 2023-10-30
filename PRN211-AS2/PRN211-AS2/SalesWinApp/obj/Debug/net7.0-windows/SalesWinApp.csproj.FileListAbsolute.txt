@@ -1,0 +1,280 @@
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmLogin.resources
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmMain.resources
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmMember.resources
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmMemberDetail.resources
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmOrder.resources
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmProductDetail.resources
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmProducts.resources
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\SalesWinApp.exe
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\appsettings.json
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\SalesWinApp.deps.json
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\SalesWinApp.runtimeconfig.json
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\SalesWinApp.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\SalesWinApp.pdb
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\BusinessObject.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\DataAccess.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\BusinessObject.pdb
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\bin\Debug\net7.0-windows\DataAccess.pdb
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\obj\Debug\net7.0-windows\refint\SalesWinApp.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.pdb
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\obj\Debug\net7.0-windows\ref\SalesWinApp.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmOrderDetail.resources
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\SalesWinApp.exe
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\appsettings.json
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\SalesWinApp.deps.json
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\SalesWinApp.runtimeconfig.json
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\SalesWinApp.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\SalesWinApp.pdb
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\BusinessObject.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\DataAccess.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\BusinessObject.pdb
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\bin\Debug\net7.0-windows\DataAccess.pdb
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.csproj.AssemblyReference.cache
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmLogin.resources
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmMain.resources
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmMember.resources
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmMemberDetail.resources
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmOrder.resources
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmOrderDetail.resources
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmProductDetail.resources
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmProducts.resources
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.csproj.GenerateResource.cache
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.AssemblyInfoInputs.cache
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.AssemblyInfo.cs
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.csproj.CoreCompileInputs.cache
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.csproj.CopyComplete
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\obj\Debug\net7.0-windows\refint\SalesWinApp.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.pdb
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.genruntimeconfig.cache
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\SalesWinApp\obj\Debug\net7.0-windows\ref\SalesWinApp.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\SalesWinApp.exe
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\appsettings.json
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\SalesWinApp.deps.json
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\SalesWinApp.runtimeconfig.json
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\SalesWinApp.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\SalesWinApp.pdb
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\BusinessObject.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\DataAccess.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\BusinessObject.pdb
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\bin\Debug\net7.0-windows\DataAccess.pdb
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.csproj.AssemblyReference.cache
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmLogin.resources
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmMain.resources
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmMember.resources
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmMemberDetail.resources
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmOrder.resources
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmOrderDetail.resources
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmProductDetail.resources
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmProducts.resources
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.csproj.GenerateResource.cache
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.AssemblyInfoInputs.cache
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.AssemblyInfo.cs
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.csproj.CoreCompileInputs.cache
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.csproj.CopyComplete
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\obj\Debug\net7.0-windows\refint\SalesWinApp.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.pdb
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.genruntimeconfig.cache
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\SalesWinApp\obj\Debug\net7.0-windows\ref\SalesWinApp.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\SalesWinApp.exe
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\appsettings.json
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\SalesWinApp.deps.json
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\SalesWinApp.runtimeconfig.json
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\SalesWinApp.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\SalesWinApp.pdb
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\BusinessObject.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\DataAccess.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\BusinessObject.pdb
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\bin\Debug\net7.0-windows\DataAccess.pdb
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.csproj.AssemblyReference.cache
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmLogin.resources
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmMain.resources
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmMember.resources
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmMemberDetail.resources
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmOrder.resources
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmOrderDetail.resources
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmProductDetail.resources
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.frmProducts.resources
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.csproj.GenerateResource.cache
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.AssemblyInfoInputs.cache
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.AssemblyInfo.cs
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.csproj.CopyComplete
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\obj\Debug\net7.0-windows\refint\SalesWinApp.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.pdb
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\obj\Debug\net7.0-windows\SalesWinApp.genruntimeconfig.cache
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\SalesWinApp\obj\Debug\net7.0-windows\ref\SalesWinApp.dll

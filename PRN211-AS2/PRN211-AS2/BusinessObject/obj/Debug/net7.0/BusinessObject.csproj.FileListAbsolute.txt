@@ -1,0 +1,70 @@
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\BusinessObject\bin\Debug\net7.0\BusinessObject.deps.json
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\BusinessObject\bin\Debug\net7.0\BusinessObject.runtimeconfig.json
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\BusinessObject\bin\Debug\net7.0\BusinessObject.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\BusinessObject\bin\Debug\net7.0\BusinessObject.pdb
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\BusinessObject\obj\Debug\net7.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\BusinessObject\obj\Debug\net7.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\BusinessObject\obj\Debug\net7.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\BusinessObject\obj\Debug\net7.0\BusinessObject.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\BusinessObject\obj\Debug\net7.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\BusinessObject\obj\Debug\net7.0\BusinessObject.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\BusinessObject\obj\Debug\net7.0\refint\BusinessObject.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\BusinessObject\obj\Debug\net7.0\BusinessObject.pdb
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\BusinessObject\obj\Debug\net7.0\BusinessObject.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\BusinessObject\obj\Debug\net7.0\ref\BusinessObject.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\BusinessObject\bin\Debug\net7.0\BusinessObject.deps.json
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\BusinessObject\bin\Debug\net7.0\BusinessObject.runtimeconfig.json
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\BusinessObject\bin\Debug\net7.0\BusinessObject.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\BusinessObject\bin\Debug\net7.0\BusinessObject.pdb
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\BusinessObject\obj\Debug\net7.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\BusinessObject\obj\Debug\net7.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\BusinessObject\obj\Debug\net7.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\BusinessObject\obj\Debug\net7.0\BusinessObject.AssemblyInfo.cs
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\BusinessObject\obj\Debug\net7.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\BusinessObject\obj\Debug\net7.0\BusinessObject.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\BusinessObject\obj\Debug\net7.0\refint\BusinessObject.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\BusinessObject\obj\Debug\net7.0\BusinessObject.pdb
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\BusinessObject\obj\Debug\net7.0\BusinessObject.genruntimeconfig.cache
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\BusinessObject\obj\Debug\net7.0\ref\BusinessObject.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\BusinessObject\bin\Debug\net7.0\BusinessObject.deps.json
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\BusinessObject\bin\Debug\net7.0\BusinessObject.runtimeconfig.json
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\BusinessObject\bin\Debug\net7.0\BusinessObject.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\BusinessObject\bin\Debug\net7.0\BusinessObject.pdb
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\BusinessObject\obj\Debug\net7.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\BusinessObject\obj\Debug\net7.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\BusinessObject\obj\Debug\net7.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\BusinessObject\obj\Debug\net7.0\BusinessObject.AssemblyInfo.cs
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\BusinessObject\obj\Debug\net7.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\BusinessObject\obj\Debug\net7.0\BusinessObject.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\BusinessObject\obj\Debug\net7.0\refint\BusinessObject.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\BusinessObject\obj\Debug\net7.0\BusinessObject.pdb
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\BusinessObject\obj\Debug\net7.0\BusinessObject.genruntimeconfig.cache
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\BusinessObject\obj\Debug\net7.0\ref\BusinessObject.dll
+C:\Users\hoang\Downloads\PRN211---Assignment-2-main\PRN211---Assignment-2-main\BusinessObject\bin\Debug\net7.0\BusinessObject.deps.json
+C:\Users\hoang\Downloads\PRN211---Assignment-2-main\PRN211---Assignment-2-main\BusinessObject\bin\Debug\net7.0\BusinessObject.runtimeconfig.json
+C:\Users\hoang\Downloads\PRN211---Assignment-2-main\PRN211---Assignment-2-main\BusinessObject\bin\Debug\net7.0\BusinessObject.dll
+C:\Users\hoang\Downloads\PRN211---Assignment-2-main\PRN211---Assignment-2-main\BusinessObject\bin\Debug\net7.0\BusinessObject.pdb
+C:\Users\hoang\Downloads\PRN211---Assignment-2-main\PRN211---Assignment-2-main\BusinessObject\obj\Debug\net7.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\hoang\Downloads\PRN211---Assignment-2-main\PRN211---Assignment-2-main\BusinessObject\obj\Debug\net7.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\Downloads\PRN211---Assignment-2-main\PRN211---Assignment-2-main\BusinessObject\obj\Debug\net7.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\hoang\Downloads\PRN211---Assignment-2-main\PRN211---Assignment-2-main\BusinessObject\obj\Debug\net7.0\BusinessObject.AssemblyInfo.cs
+C:\Users\hoang\Downloads\PRN211---Assignment-2-main\PRN211---Assignment-2-main\BusinessObject\obj\Debug\net7.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Downloads\PRN211---Assignment-2-main\PRN211---Assignment-2-main\BusinessObject\obj\Debug\net7.0\BusinessObject.dll
+C:\Users\hoang\Downloads\PRN211---Assignment-2-main\PRN211---Assignment-2-main\BusinessObject\obj\Debug\net7.0\refint\BusinessObject.dll
+C:\Users\hoang\Downloads\PRN211---Assignment-2-main\PRN211---Assignment-2-main\BusinessObject\obj\Debug\net7.0\BusinessObject.pdb
+C:\Users\hoang\Downloads\PRN211---Assignment-2-main\PRN211---Assignment-2-main\BusinessObject\obj\Debug\net7.0\BusinessObject.genruntimeconfig.cache
+C:\Users\hoang\Downloads\PRN211---Assignment-2-main\PRN211---Assignment-2-main\BusinessObject\obj\Debug\net7.0\ref\BusinessObject.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\BusinessObject\bin\Debug\net7.0\BusinessObject.deps.json
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\BusinessObject\bin\Debug\net7.0\BusinessObject.runtimeconfig.json
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\BusinessObject\bin\Debug\net7.0\BusinessObject.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\BusinessObject\bin\Debug\net7.0\BusinessObject.pdb
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\BusinessObject\obj\Debug\net7.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\BusinessObject\obj\Debug\net7.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\BusinessObject\obj\Debug\net7.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\BusinessObject\obj\Debug\net7.0\BusinessObject.AssemblyInfo.cs
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\BusinessObject\obj\Debug\net7.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\BusinessObject\obj\Debug\net7.0\BusinessObject.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\BusinessObject\obj\Debug\net7.0\refint\BusinessObject.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\BusinessObject\obj\Debug\net7.0\BusinessObject.pdb
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\BusinessObject\obj\Debug\net7.0\BusinessObject.genruntimeconfig.cache
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\BusinessObject\obj\Debug\net7.0\ref\BusinessObject.dll

@@ -1,0 +1,60 @@
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\DataAccess\bin\Debug\net7.0\BusinessObject.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\DataAccess\bin\Debug\net7.0\BusinessObject.pdb
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\Assignment\Sales-Management--main\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\DataAccess\bin\Debug\net7.0\BusinessObject.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\DataAccess\bin\Debug\net7.0\BusinessObject.pdb
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Ass02-SE162002\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\DataAccess\bin\Debug\net7.0\BusinessObject.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\DataAccess\bin\Debug\net7.0\BusinessObject.pdb
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\dinhg\Desktop\PRN ASSIGNMENT\Dinh Gia Huy - SE161889 - Assignment 2\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\DataAccess\bin\Debug\net7.0\BusinessObject.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\DataAccess\bin\Debug\net7.0\BusinessObject.pdb
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\hoang\Downloads\PRN211-AS2\PRN211-AS2\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
