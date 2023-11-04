@@ -43,12 +43,14 @@
             btnSave = new System.Windows.Forms.Button();
             btnCancel = new System.Windows.Forms.Button();
             lbTitle = new System.Windows.Forms.Label();
+            label1 = new System.Windows.Forms.Label();
+            cmbProduct = new System.Windows.Forms.ComboBox();
             SuspendLayout();
             // 
             // lbOrderID
             // 
             lbOrderID.AutoSize = true;
-            lbOrderID.Location = new System.Drawing.Point(89, 114);
+            lbOrderID.Location = new System.Drawing.Point(89, 86);
             lbOrderID.Name = "lbOrderID";
             lbOrderID.Size = new System.Drawing.Size(66, 20);
             lbOrderID.TabIndex = 0;
@@ -56,11 +58,12 @@
             // 
             // txtOrderID
             // 
-            txtOrderID.Location = new System.Drawing.Point(185, 104);
+            txtOrderID.Location = new System.Drawing.Point(185, 76);
             txtOrderID.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             txtOrderID.Name = "txtOrderID";
             txtOrderID.Size = new System.Drawing.Size(228, 27);
             txtOrderID.TabIndex = 1;
+            txtOrderID.TextChanged += txtOrderID_TextChanged;
             // 
             // lbMemberID
             // 
@@ -78,6 +81,7 @@
             txtMemberID.Name = "txtMemberID";
             txtMemberID.Size = new System.Drawing.Size(228, 27);
             txtMemberID.TabIndex = 3;
+            txtMemberID.TextChanged += txtMemberID_TextChanged;
             // 
             // lbOrderDate
             // 
@@ -184,11 +188,32 @@
             lbTitle.TabIndex = 67;
             lbTitle.Text = "Order Details";
             // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new System.Drawing.Point(105, 135);
+            label1.Name = "label1";
+            label1.Size = new System.Drawing.Size(60, 20);
+            label1.TabIndex = 68;
+            label1.Text = "Product";
+            label1.Click += label1_Click;
+            // 
+            // cmbProduct
+            // 
+            cmbProduct.FormattingEnabled = true;
+            cmbProduct.Location = new System.Drawing.Point(185, 132);
+            cmbProduct.Name = "cmbProduct";
+            cmbProduct.Size = new System.Drawing.Size(228, 28);
+            cmbProduct.TabIndex = 70;
+            cmbProduct.SelectedIndexChanged += comboBox1_SelectedIndexChanged;
+            // 
             // frmOrderDetail
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             ClientSize = new System.Drawing.Size(507, 600);
+            Controls.Add(cmbProduct);
+            Controls.Add(label1);
             Controls.Add(lbTitle);
             Controls.Add(btnCancel);
             Controls.Add(btnSave);
@@ -229,5 +254,7 @@
         private System.Windows.Forms.Button btnSave;
         private System.Windows.Forms.Button btnCancel;
         private System.Windows.Forms.Label lbTitle;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.ComboBox cmbProduct;
     }
 }

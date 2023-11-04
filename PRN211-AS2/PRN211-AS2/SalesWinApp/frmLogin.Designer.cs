@@ -41,7 +41,7 @@
             btnReset.BackColor = System.Drawing.Color.Tomato;
             btnReset.DialogResult = System.Windows.Forms.DialogResult.Retry;
             btnReset.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            btnReset.Location = new System.Drawing.Point(100, 90);
+            btnReset.Location = new System.Drawing.Point(343, 182);
             btnReset.Margin = new System.Windows.Forms.Padding(2);
             btnReset.Name = "btnReset";
             btnReset.Size = new System.Drawing.Size(90, 32);
@@ -55,7 +55,7 @@
             btnLogin.BackColor = System.Drawing.Color.YellowGreen;
             btnLogin.DialogResult = System.Windows.Forms.DialogResult.OK;
             btnLogin.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            btnLogin.Location = new System.Drawing.Point(194, 90);
+            btnLogin.Location = new System.Drawing.Point(437, 182);
             btnLogin.Margin = new System.Windows.Forms.Padding(2);
             btnLogin.Name = "btnLogin";
             btnLogin.Size = new System.Drawing.Size(91, 32);
@@ -67,7 +67,7 @@
             // txtPassword
             // 
             txtPassword.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            txtPassword.Location = new System.Drawing.Point(100, 59);
+            txtPassword.Location = new System.Drawing.Point(343, 151);
             txtPassword.Margin = new System.Windows.Forms.Padding(2);
             txtPassword.Name = "txtPassword";
             txtPassword.PasswordChar = '*';
@@ -77,7 +77,7 @@
             // txtEmail
             // 
             txtEmail.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            txtEmail.Location = new System.Drawing.Point(100, 29);
+            txtEmail.Location = new System.Drawing.Point(343, 121);
             txtEmail.Margin = new System.Windows.Forms.Padding(2);
             txtEmail.Name = "txtEmail";
             txtEmail.Size = new System.Drawing.Size(186, 30);
@@ -88,7 +88,7 @@
             // 
             lbPassword.AutoSize = true;
             lbPassword.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            lbPassword.Location = new System.Drawing.Point(15, 57);
+            lbPassword.Location = new System.Drawing.Point(258, 149);
             lbPassword.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             lbPassword.Name = "lbPassword";
             lbPassword.Size = new System.Drawing.Size(80, 23);
@@ -99,7 +99,7 @@
             // 
             lbEmail.AutoSize = true;
             lbEmail.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            lbEmail.Location = new System.Drawing.Point(42, 29);
+            lbEmail.Location = new System.Drawing.Point(285, 121);
             lbEmail.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             lbEmail.Name = "lbEmail";
             lbEmail.Size = new System.Drawing.Size(51, 23);
@@ -110,7 +110,7 @@
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            ClientSize = new System.Drawing.Size(336, 154);
+            ClientSize = new System.Drawing.Size(819, 371);
             Controls.Add(btnReset);
             Controls.Add(btnLogin);
             Controls.Add(txtPassword);

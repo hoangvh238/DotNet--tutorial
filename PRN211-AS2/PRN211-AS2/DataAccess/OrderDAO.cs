@@ -80,6 +80,14 @@ namespace DataAccess
             }
         }
 
+        public static List<Order> GetOrderByUserID(int id)
+        {
+            using(var db = new SalesDBContext())
+            {
+                return db.Orders.ToList().FindAll(p => p.MemberId == id);   
+            }
+        }
+
         public static List<Order> RequiredDate(DateTime date1, DateTime date2)
         {
             using (var db = new SalesDBContext())

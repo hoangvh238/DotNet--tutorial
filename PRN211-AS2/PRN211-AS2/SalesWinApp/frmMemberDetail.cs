@@ -87,5 +87,10 @@ namespace SalesWinApp
         {
 
         }
+
+        private void txtMemberID_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

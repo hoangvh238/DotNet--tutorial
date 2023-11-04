@@ -59,6 +59,7 @@
             txtMemberID.Name = "txtMemberID";
             txtMemberID.Size = new System.Drawing.Size(187, 27);
             txtMemberID.TabIndex = 63;
+            txtMemberID.TextChanged += txtMemberID_TextChanged;
             // 
             // lbMemberID
             // 

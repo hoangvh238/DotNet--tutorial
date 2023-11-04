@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hoang\\Downloads\\PRN211-AS2\\PRN211-AS2\\SalesWinApp\\SalesWinApp.csproj": {}
+    "D:\\PRN211\\PRN211-AS2\\PRN211-AS2\\SalesWinApp\\SalesWinApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hoang\\Downloads\\PRN211-AS2\\PRN211-AS2\\BusinessObject\\BusinessObject.csproj": {
+    "D:\\PRN211\\PRN211-AS2\\PRN211-AS2\\BusinessObject\\BusinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hoang\\Downloads\\PRN211-AS2\\PRN211-AS2\\BusinessObject\\BusinessObject.csproj",
+        "projectUniqueName": "D:\\PRN211\\PRN211-AS2\\PRN211-AS2\\BusinessObject\\BusinessObject.csproj",
         "projectName": "BusinessObject",
-        "projectPath": "C:\\Users\\hoang\\Downloads\\PRN211-AS2\\PRN211-AS2\\BusinessObject\\BusinessObject.csproj",
+        "projectPath": "D:\\PRN211\\PRN211-AS2\\PRN211-AS2\\BusinessObject\\BusinessObject.csproj",
         "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hoang\\Downloads\\PRN211-AS2\\PRN211-AS2\\BusinessObject\\obj\\",
+        "outputPath": "D:\\PRN211\\PRN211-AS2\\PRN211-AS2\\BusinessObject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\hoang\\Downloads\\PRN211-AS2\\PRN211-AS2\\DataAccess\\DataAccess.csproj": {
+    "D:\\PRN211\\PRN211-AS2\\PRN211-AS2\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hoang\\Downloads\\PRN211-AS2\\PRN211-AS2\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\PRN211\\PRN211-AS2\\PRN211-AS2\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\hoang\\Downloads\\PRN211-AS2\\PRN211-AS2\\DataAccess\\DataAccess.csproj",
+        "projectPath": "D:\\PRN211\\PRN211-AS2\\PRN211-AS2\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hoang\\Downloads\\PRN211-AS2\\PRN211-AS2\\DataAccess\\obj\\",
+        "outputPath": "D:\\PRN211\\PRN211-AS2\\PRN211-AS2\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -95,8 +95,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\hoang\\Downloads\\PRN211-AS2\\PRN211-AS2\\BusinessObject\\BusinessObject.csproj": {
-                "projectPath": "C:\\Users\\hoang\\Downloads\\PRN211-AS2\\PRN211-AS2\\BusinessObject\\BusinessObject.csproj"
+              "D:\\PRN211\\PRN211-AS2\\PRN211-AS2\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "D:\\PRN211\\PRN211-AS2\\PRN211-AS2\\BusinessObject\\BusinessObject.csproj"
               }
             }
           }
@@ -130,14 +130,14 @@
         }
       }
     },
-    "C:\\Users\\hoang\\Downloads\\PRN211-AS2\\PRN211-AS2\\SalesWinApp\\SalesWinApp.csproj": {
+    "D:\\PRN211\\PRN211-AS2\\PRN211-AS2\\SalesWinApp\\SalesWinApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hoang\\Downloads\\PRN211-AS2\\PRN211-AS2\\SalesWinApp\\SalesWinApp.csproj",
+        "projectUniqueName": "D:\\PRN211\\PRN211-AS2\\PRN211-AS2\\SalesWinApp\\SalesWinApp.csproj",
         "projectName": "SalesWinApp",
-        "projectPath": "C:\\Users\\hoang\\Downloads\\PRN211-AS2\\PRN211-AS2\\SalesWinApp\\SalesWinApp.csproj",
+        "projectPath": "D:\\PRN211\\PRN211-AS2\\PRN211-AS2\\SalesWinApp\\SalesWinApp.csproj",
         "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hoang\\Downloads\\PRN211-AS2\\PRN211-AS2\\SalesWinApp\\obj\\",
+        "outputPath": "D:\\PRN211\\PRN211-AS2\\PRN211-AS2\\SalesWinApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -154,11 +154,11 @@
           "net7.0-windows7.0": {
             "targetAlias": "net7.0-windows",
             "projectReferences": {
-              "C:\\Users\\hoang\\Downloads\\PRN211-AS2\\PRN211-AS2\\BusinessObject\\BusinessObject.csproj": {
-                "projectPath": "C:\\Users\\hoang\\Downloads\\PRN211-AS2\\PRN211-AS2\\BusinessObject\\BusinessObject.csproj"
+              "D:\\PRN211\\PRN211-AS2\\PRN211-AS2\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "D:\\PRN211\\PRN211-AS2\\PRN211-AS2\\BusinessObject\\BusinessObject.csproj"
               },
-              "C:\\Users\\hoang\\Downloads\\PRN211-AS2\\PRN211-AS2\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\hoang\\Downloads\\PRN211-AS2\\PRN211-AS2\\DataAccess\\DataAccess.csproj"
+              "D:\\PRN211\\PRN211-AS2\\PRN211-AS2\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\PRN211\\PRN211-AS2\\PRN211-AS2\\DataAccess\\DataAccess.csproj"
               }
             }
           }

@@ -12,7 +12,7 @@ namespace DataAccess.Repository
         void DeleteOrder(Order o);
         Order GetOrderID(int id);
         List<Order> RequiredDate(DateTime date1, DateTime date2);
-
+        List<Order> GetOrdersByUserId (int userId); 
 
     }
 }

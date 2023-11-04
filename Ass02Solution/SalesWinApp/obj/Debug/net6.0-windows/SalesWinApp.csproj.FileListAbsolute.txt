@@ -60,3 +60,9 @@ D:\PRN211\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\ref\SalesWinApp.dll
 D:\PRN211\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\appsettings.json
 D:\PRN211\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmMain.resources
 D:\PRN211\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmUserMain.resources
+D:\PRN211\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmBuyProduct.resources
+D:\PRN211\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmOrderDetail.resources
+D:\PRN211\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmOrders.resources
+D:\PRN211\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmProductDetail.resources
+D:\PRN211\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmUser.resources
+D:\PRN211\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmUserDetail.resources

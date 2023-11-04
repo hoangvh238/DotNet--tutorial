@@ -1,12 +1,14 @@
 ﻿using BusinessObject.Models;
 using DataAccess.Repository;
 using System;
+using System.Collections.Generic;
 using System.Windows.Forms;
 
 namespace SalesWinApp
 {
     public partial class frmMember : Form
     {
+        string role = SessionManager.Instance.Get("role") as string;
         public frmMember()
         {
             InitializeComponent();
@@ -20,6 +22,23 @@ namespace SalesWinApp
 
             dgvMember.DataSource = null;
             dgvMember.DataSource = list;
+        }
+
+        public void loadMemberListUser()
+        {
+            int? id = SessionManager.Instance.Get("id") as int?;
+            MessageBox.Show(""+ id.Value);
+            if (id.HasValue)
+            {
+                var users = new List<object> { resm.GetMemberID(id.Value ) };
+                BindingSource source = new BindingSource();
+                source.DataSource = users;
+
+                dgvMember.DataSource = null;
+                dgvMember.DataSource = users;
+            }
+
+
         }
 
         public Member GetMember()
@@ -47,7 +66,20 @@ namespace SalesWinApp
 
         private void frmMember_Load(object sender, EventArgs e)
         {
-            loadMemberList();
+            string role = SessionManager.Instance.Get("role") as string;
+
+            if (role.Equals("admin")) loadMemberList();
+
+            else
+            {
+                loadMemberListUser();
+                lbCompanyName.Hide();
+                lbMemberID.Hide();
+                btnCreate.Hide();
+                btnDelete.Hide();
+                txtCmName.Hide();
+                txtMemberID.Hide();
+            }
         }
 
         private void btnCreate_Click(object sender, EventArgs e)

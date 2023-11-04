@@ -30,13 +30,18 @@ namespace SalesWinApp
 
                 if (txtEmail.Text.Equals(emailA) && txtPassword.Text.Equals(passwordA))
                 {
+                    this.Hide();
                     frmMain main = new frmMain();
+                    SessionManager.Instance.Set("role", "admin");
                     main.ShowDialog();
                     Close();
                 }
                 else if (member != null)
                 {
+                    this.Hide();
                     frmMain main = new frmMain();
+                    SessionManager.Instance.Set("role", "user");
+                    SessionManager.Instance.Set("id", member.MemberId);
                     main.ShowDialog();
                     Close();
 

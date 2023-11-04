@@ -32,15 +32,15 @@
             btnMember = new System.Windows.Forms.Button();
             btnOrder = new System.Windows.Forms.Button();
             lbTitle = new System.Windows.Forms.Label();
+            btnLogout = new System.Windows.Forms.Button();
             SuspendLayout();
             // 
             // btnProduct
             // 
             btnProduct.BackColor = System.Drawing.SystemColors.MenuHighlight;
-            btnProduct.Location = new System.Drawing.Point(73, 244);
-            btnProduct.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            btnProduct.Location = new System.Drawing.Point(58, 195);
             btnProduct.Name = "btnProduct";
-            btnProduct.Size = new System.Drawing.Size(262, 76);
+            btnProduct.Size = new System.Drawing.Size(210, 61);
             btnProduct.TabIndex = 0;
             btnProduct.Text = "Product managerment";
             btnProduct.UseVisualStyleBackColor = false;
@@ -49,10 +49,9 @@
             // btnMember
             // 
             btnMember.BackColor = System.Drawing.Color.IndianRed;
-            btnMember.Location = new System.Drawing.Point(393, 244);
-            btnMember.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            btnMember.Location = new System.Drawing.Point(314, 195);
             btnMember.Name = "btnMember";
-            btnMember.Size = new System.Drawing.Size(262, 76);
+            btnMember.Size = new System.Drawing.Size(210, 61);
             btnMember.TabIndex = 1;
             btnMember.Text = "Member Managerment";
             btnMember.UseVisualStyleBackColor = false;
@@ -61,10 +60,9 @@
             // btnOrder
             // 
             btnOrder.BackColor = System.Drawing.Color.Yellow;
-            btnOrder.Location = new System.Drawing.Point(725, 244);
-            btnOrder.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            btnOrder.Location = new System.Drawing.Point(580, 195);
             btnOrder.Name = "btnOrder";
-            btnOrder.Size = new System.Drawing.Size(262, 76);
+            btnOrder.Size = new System.Drawing.Size(210, 61);
             btnOrder.TabIndex = 2;
             btnOrder.Text = "Order managerment";
             btnOrder.UseVisualStyleBackColor = false;
@@ -74,23 +72,33 @@
             // 
             lbTitle.AutoSize = true;
             lbTitle.Font = new System.Drawing.Font("Segoe UI", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            lbTitle.Location = new System.Drawing.Point(412, 28);
-            lbTitle.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            lbTitle.Location = new System.Drawing.Point(330, 22);
             lbTitle.Name = "lbTitle";
-            lbTitle.Size = new System.Drawing.Size(226, 54);
+            lbTitle.Size = new System.Drawing.Size(191, 46);
             lbTitle.TabIndex = 67;
             lbTitle.Text = "Main Menu";
             // 
+            // btnLogout
+            // 
+            btnLogout.Location = new System.Drawing.Point(370, 347);
+            btnLogout.Name = "btnLogout";
+            btnLogout.Size = new System.Drawing.Size(94, 29);
+            btnLogout.TabIndex = 69;
+            btnLogout.Text = "Logout";
+            btnLogout.UseVisualStyleBackColor = true;
+            btnLogout.Click += btnLogout_Click;
+            // 
             // frmMain
             // 
-            AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
+            AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            ClientSize = new System.Drawing.Size(1067, 562);
+            ClientSize = new System.Drawing.Size(854, 450);
+            Controls.Add(btnLogout);
             Controls.Add(lbTitle);
             Controls.Add(btnOrder);
             Controls.Add(btnMember);
             Controls.Add(btnProduct);
-            Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            IsMdiContainer = true;
             Name = "frmMain";
             Text = "frmMain";
             Load += frmMain_Load;
@@ -104,5 +112,6 @@
         private System.Windows.Forms.Button btnMember;
         private System.Windows.Forms.Button btnOrder;
         private System.Windows.Forms.Label lbTitle;
+        private System.Windows.Forms.Button btnLogout;
     }
 }

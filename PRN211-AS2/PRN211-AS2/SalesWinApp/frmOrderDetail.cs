@@ -30,6 +30,8 @@ namespace SalesWinApp
 
         }
         public IOrderRepository orderRepository { get; set; }
+        public IProductRepository productRepository { get; set; }
+        public IOrderDetailRepository orderDetailRepository { get; set; }
         public bool InsertOrUpdate { get; set; }
         public Order OrderInfor { get; set; }
 
@@ -46,12 +48,21 @@ namespace SalesWinApp
                 dtpRequireDate.Text = OrderInfor.RequiredDate.ToString();
                 dtpShippedDate.Text = OrderInfor.ShippedDate.ToString();
                 txtFreight.Text = OrderInfor.Freight.ToString();
-
-
             }
             else
             {
                 lbTitle.Text = "Create Order";
+            }
+
+            productRepository = new ProductRepository();
+            List<Product> productList = productRepository.GetProducts(); 
+
+            cmbProduct.Items.Clear();
+
+            
+            foreach (Product product in productList)
+            {
+                cmbProduct.Items.Add(product.ProductName);
             }
 
         }
@@ -75,7 +86,18 @@ namespace SalesWinApp
                 }
                 else
                 {
-                    orderRepository.SaveOrder(o);
+                    var oD = new OrderDetail()
+                    {
+                        OrderId = int.Parse(txtOrderID.Text),
+                        ProductId = 1,
+                        UnitPrice = 10000,
+                        Quantity = 1,
+                        Discount = 1
+
+    };
+                    orderDetailRepository = new OrderDetailRepository();    
+                    orderDetailRepository.SaveOrderDetail(oD);
+                    
                     ClearText();
                 }
 
@@ -90,6 +112,26 @@ namespace SalesWinApp
         private void btnCancel_Click(object sender, EventArgs e) => Close();
 
         private void dtpOrderDate_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtOrderID_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtMemberID_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }

@@ -1,6 +1,7 @@
 ﻿using BusinessObject.Models;
 using DataAccess.Repository;
 using System;
+using System.Collections.Generic;
 using System.Windows.Forms;
 
 namespace SalesWinApp
@@ -8,6 +9,8 @@ namespace SalesWinApp
     public partial class frmOrder : Form
     {
         IOrderRepository orderRepository = new OrderRepository();
+        IOrderDetailRepository orderDetailRepository = new OrderDetailRepository();
+
         public frmOrder()
         {
             InitializeComponent();
@@ -21,6 +24,20 @@ namespace SalesWinApp
 
             dgvOrder.DataSource = null;
             dgvOrder.DataSource = list;
+        }
+
+        public void ListOrderUser()
+        {
+            int? id = SessionManager.Instance.Get("id") as int?;
+            if (id.HasValue)
+            {
+                var list = orderDetailRepository.GetOrderIDDetail(id.Value);
+                BindingSource source = new BindingSource();
+                source.DataSource = list;
+                dgvOrder.DataSource = null;
+                dgvOrder.DataSource = list;
+            }
+           
         }
 
         public Order getOrder()
@@ -41,7 +58,12 @@ namespace SalesWinApp
 
         private void frmOrder_Load(object sender, EventArgs e)
         {
-            ListOrder();
+            string role = SessionManager.Instance.Get("role") as string;
+
+            if (role.Equals("admin")) ListOrder();
+
+            else
+                ListOrderUser();
         }
 
 

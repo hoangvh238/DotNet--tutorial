@@ -22,5 +22,10 @@ namespace DataAccess.Repository
 
         public void UpdateOrder(Order o)
         => OrderDAO.UpdateOrder(o);
+
+        public List<Order> GetOrdersByUserId(int userId)
+        => OrderDAO.GetOrderByUserID(userId);
+
+        
     }
 }
