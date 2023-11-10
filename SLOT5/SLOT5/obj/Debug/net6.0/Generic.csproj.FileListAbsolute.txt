@@ -1,0 +1,14 @@
+D:\PRN211\SLOT5\SLOT5\bin\Debug\net6.0\Generic.exe
+D:\PRN211\SLOT5\SLOT5\bin\Debug\net6.0\Generic.deps.json
+D:\PRN211\SLOT5\SLOT5\bin\Debug\net6.0\Generic.runtimeconfig.json
+D:\PRN211\SLOT5\SLOT5\bin\Debug\net6.0\Generic.dll
+D:\PRN211\SLOT5\SLOT5\bin\Debug\net6.0\Generic.pdb
+D:\PRN211\SLOT5\SLOT5\obj\Debug\net6.0\Generic.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\SLOT5\SLOT5\obj\Debug\net6.0\Generic.AssemblyInfoInputs.cache
+D:\PRN211\SLOT5\SLOT5\obj\Debug\net6.0\Generic.AssemblyInfo.cs
+D:\PRN211\SLOT5\SLOT5\obj\Debug\net6.0\Generic.csproj.CoreCompileInputs.cache
+D:\PRN211\SLOT5\SLOT5\obj\Debug\net6.0\Generic.dll
+D:\PRN211\SLOT5\SLOT5\obj\Debug\net6.0\refint\Generic.dll
+D:\PRN211\SLOT5\SLOT5\obj\Debug\net6.0\Generic.pdb
+D:\PRN211\SLOT5\SLOT5\obj\Debug\net6.0\Generic.genruntimeconfig.cache
+D:\PRN211\SLOT5\SLOT5\obj\Debug\net6.0\ref\Generic.dll

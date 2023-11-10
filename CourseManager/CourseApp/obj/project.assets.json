@@ -3009,9 +3009,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRN211\\CourseManager\\CourseApp\\CourseApp.csproj",
-      "projectName": "CourseApp",
-      "projectPath": "D:\\PRN211\\CourseManager\\CourseApp\\CourseApp.csproj",
+      "projectUniqueName": "D:\\PRN211\\CourseManager\\CourseApp\\CourseWinApp.csproj",
+      "projectName": "CourseWinApp",
+      "projectPath": "D:\\PRN211\\CourseManager\\CourseApp\\CourseWinApp.csproj",
       "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
       "outputPath": "D:\\PRN211\\CourseManager\\CourseApp\\obj\\",
       "projectStyle": "PackageReference",

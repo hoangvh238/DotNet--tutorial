@@ -44,7 +44,7 @@ namespace Delegate
             Name = name;
 
             UpdateHandle += Print;
-            if (UpdateHandle != null) UpdateHandle(ToString());
+            if (UpdateHandle != null) UpdateHandle(ToString()); 
         }
 
     }

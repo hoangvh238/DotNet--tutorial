@@ -13,11 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\Da
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BussinessObject", "BussinessObject\BussinessObject.csproj", "{64D18021-2709-47EB-82C1-0F2C10F493AD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CourseApp", "CourseApp\CourseApp.csproj", "{6E322FED-C725-49CE-879A-6B7F40B618AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CourseWinApp", "CourseApp\CourseWinApp.csproj", "{6E322FED-C725-49CE-879A-6B7F40B618AC}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebForm", "WebForm\WebForm.csproj", "{16E1DA0D-B752-4523-8648-110D2F01A0F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppDemo", "WebAppDemo\WebAppDemo.csproj", "{9FD267EA-098A-462F-B07B-15541150E8EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAppDemo", "WebAppDemo\WebAppDemo.csproj", "{9FD267EA-098A-462F-B07B-15541150E8EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

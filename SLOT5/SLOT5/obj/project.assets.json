@@ -250,9 +250,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRN211\\SLOT5\\SLOT5\\SLOT5.csproj",
-      "projectName": "SLOT5",
-      "projectPath": "D:\\PRN211\\SLOT5\\SLOT5\\SLOT5.csproj",
+      "projectUniqueName": "D:\\PRN211\\SLOT5\\SLOT5\\Generic.csproj",
+      "projectName": "Generic",
+      "projectPath": "D:\\PRN211\\SLOT5\\SLOT5\\Generic.csproj",
       "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
       "outputPath": "D:\\PRN211\\SLOT5\\SLOT5\\obj\\",
       "projectStyle": "PackageReference",

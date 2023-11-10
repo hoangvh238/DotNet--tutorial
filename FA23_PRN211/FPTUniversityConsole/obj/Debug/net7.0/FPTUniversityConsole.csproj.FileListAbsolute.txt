@@ -1,0 +1,14 @@
+D:\PRN211\FA23_PRN211\FPTUniversityConsole\obj\Debug\net7.0\FPTUniversityConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\FA23_PRN211\FPTUniversityConsole\obj\Debug\net7.0\FPTUniversityConsole.AssemblyInfoInputs.cache
+D:\PRN211\FA23_PRN211\FPTUniversityConsole\obj\Debug\net7.0\FPTUniversityConsole.AssemblyInfo.cs
+D:\PRN211\FA23_PRN211\FPTUniversityConsole\obj\Debug\net7.0\FPTUniversityConsole.csproj.CoreCompileInputs.cache
+D:\PRN211\FA23_PRN211\FPTUniversityConsole\bin\Debug\net7.0\FPTUniversityConsole.exe
+D:\PRN211\FA23_PRN211\FPTUniversityConsole\bin\Debug\net7.0\FPTUniversityConsole.deps.json
+D:\PRN211\FA23_PRN211\FPTUniversityConsole\bin\Debug\net7.0\FPTUniversityConsole.runtimeconfig.json
+D:\PRN211\FA23_PRN211\FPTUniversityConsole\bin\Debug\net7.0\FPTUniversityConsole.dll
+D:\PRN211\FA23_PRN211\FPTUniversityConsole\bin\Debug\net7.0\FPTUniversityConsole.pdb
+D:\PRN211\FA23_PRN211\FPTUniversityConsole\obj\Debug\net7.0\FPTUniversityConsole.dll
+D:\PRN211\FA23_PRN211\FPTUniversityConsole\obj\Debug\net7.0\refint\FPTUniversityConsole.dll
+D:\PRN211\FA23_PRN211\FPTUniversityConsole\obj\Debug\net7.0\FPTUniversityConsole.pdb
+D:\PRN211\FA23_PRN211\FPTUniversityConsole\obj\Debug\net7.0\FPTUniversityConsole.genruntimeconfig.cache
+D:\PRN211\FA23_PRN211\FPTUniversityConsole\obj\Debug\net7.0\ref\FPTUniversityConsole.dll

@@ -67,3 +67,13 @@ D:\PRN211\CourseManager\CourseApp\obj\Debug\net6.0-windows\CourseApp.pdb
 D:\PRN211\CourseManager\CourseApp\obj\Debug\net6.0-windows\CourseApp.genruntimeconfig.cache
 D:\PRN211\CourseManager\CourseApp\obj\Debug\net6.0-windows\ref\CourseApp.dll
 D:\PRN211\CourseManager\CourseApp\bin\Debug\net6.0-windows\appsettings.json
+D:\PRN211\CourseManager - Copy\CourseApp\obj\Debug\net6.0-windows\CourseApp.csproj.AssemblyReference.cache
+D:\PRN211\CourseManager - Copy\CourseApp\obj\Debug\net6.0-windows\CourseApp.frmStudentManager.resources
+D:\PRN211\CourseManager - Copy\CourseApp\obj\Debug\net6.0-windows\CourseApp.csproj.GenerateResource.cache
+D:\PRN211\CourseManager - Copy\CourseApp\obj\Debug\net6.0-windows\CourseApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\CourseManager - Copy\CourseApp\obj\Debug\net6.0-windows\CourseApp.AssemblyInfoInputs.cache
+D:\PRN211\CourseManager - Copy\CourseApp\obj\Debug\net6.0-windows\CourseApp.AssemblyInfo.cs
+D:\PRN211\CourseManager - Copy\CourseApp\obj\Debug\net6.0-windows\CourseApp.csproj.CoreCompileInputs.cache
+D:\PRN211\CourseManager - Copy\CourseApp\obj\Debug\net6.0-windows\CourseApp.dll
+D:\PRN211\CourseManager - Copy\CourseApp\obj\Debug\net6.0-windows\refint\CourseApp.dll
+D:\PRN211\CourseManager - Copy\CourseApp\obj\Debug\net6.0-windows\CourseApp.pdb

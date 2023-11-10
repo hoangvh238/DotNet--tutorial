@@ -10,7 +10,7 @@ namespace SLOT5
     {
         static void Main(string[] args)
         {
-            ClassService<String,float> service = new ClassService<String,float>() { Value = "hi"};
+            ClassService<String,String> service = new ClassService<String,String>() { Value = "hi"};
             Console.WriteLine(service.ToString());
             ClassService<float,String> service1 = new ClassService<float,String>() { Value = 1.0f ,Detail="asdadas"};
             Console.WriteLine(service1.ToString());
